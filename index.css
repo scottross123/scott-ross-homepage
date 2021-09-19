@@ -1,0 +1,59 @@
+* {
+	color: steelblue;
+	font-family:  sans-serif;
+}
+
+body {
+	font-size: 12pt;
+}
+
+h1 {
+ color: royalblue;
+ text-align: center;
+ font-family: "Papyrus";
+ font-style: italic;
+}
+
+p {
+	color: blueviolet;
+	background-color: #ffbf00;
+	font-family:  "Comic Sans MS";
+}
+
+.even {
+	
+	background-color: rebeccapurple;
+}
+
+.odd {
+	background-color: lightcoral;
+}
+
+#tabtitle {
+	text-align:  center;
+}
+
+table {
+	font-family: "Georgia";
+	color:  royalblue;
+	font-weight:  bolder;
+}
+
+li {
+	font-wight:  bold;
+}
+
+h2 {
+	text-decoration: underline;
+	color: forestgreen;
+}
+
+#me {
+	text-align: center;
+	color: darkolivegreen;
+}
+
+span {
+	color: red;
+	font-weight: bold;
+}
